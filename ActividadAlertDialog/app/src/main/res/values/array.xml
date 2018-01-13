@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="color_array">
+
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Rojo</item>
+
+    </string-array>
+
+</resources>

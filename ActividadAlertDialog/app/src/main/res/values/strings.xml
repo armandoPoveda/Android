@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActividadAlertDialog</string>
+
+    <string name="Titulo">COLOR</string>
+    <string name="Mensaje">Elige un color</string>
+
+
+</resources>
