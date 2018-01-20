@@ -9,4 +9,16 @@
 
     </string-array>
 
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FF00</color>
+    <color name="red">#FF0000</color>
+
+     <array name="rainbow">
+
+         <item>@color/blue</item>
+         <item>@color/green</item>
+         <item>@color/red</item>
+
+     </array>
+
 </resources>
